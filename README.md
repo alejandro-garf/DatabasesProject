@@ -47,8 +47,7 @@ Since we only have 4 members, roles have been combined to ensure equal contribut
 | **ER Diagram & Report Lead**  | Designs ER Diagram, Writes ER section of report, Works with Schema Lead | Member 1 |
 | **Schema & Presentation Lead** | Converts ER Diagram to Physical Model, Writes schema SQL script, Assists in PowerPoint creation | Member 2 |
 | **Data & Query Lead (Subqueries)** | Finds & integrates additional data, Develops subquery-based queries, Ensures data consistency | Member 3 |
-| **Query & GitHub Lead (Joins)** | Develops join-based queries, Ensures query efficiency, Manages GitHub PR reviews | Member 4 |
-| **Team Lead** | Oversees deadlines & final submission, Ensures PR reviews & GitHub documentation, Submits project on Canvas | Assigned from any of the above |
+| **Team Lead** | Oversees deadlines & final submission, Ensures PR reviews & GitHub documentation, Submits project on Canvas | Member 4 |
 
 ---
 
