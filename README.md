@@ -89,14 +89,3 @@ Queries were designed to reflect real-world cybersecurity intelligence analysis.
 
 ---
 
-## 👥 Team Members
-
-- [Insert Team Member Names Here]
-
----
-
-## 📄 License
-
-This project is part of coursework for **California State University, Fullerton - CPSC 332** and is intended for educational use only.
-
----
